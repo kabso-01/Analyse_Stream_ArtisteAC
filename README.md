@@ -38,6 +38,7 @@ Pour cette raison, certaines analyses, surtout celles liées aux revenus, doiven
 ### Installer les dépendances nécessaires
 
 ```bash
+##Inataller les dépendances necessaires
 pip install -r requirements.txt
-##Lancer l'application :
+##Executer l'application :
 streamlit run app.py 
