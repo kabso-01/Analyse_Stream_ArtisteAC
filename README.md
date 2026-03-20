@@ -39,3 +39,5 @@ Pour cette raison, certaines analyses, surtout celles liées aux revenus, doiven
 
 ```bash
 pip install -r requirements.txt
+##Lancer l'application :
+streamlit run app.py 
