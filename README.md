@@ -37,14 +37,6 @@ Pour cette raison, certaines analyses, surtout celles liées aux revenus, doiven
 
 Le projet peut être organisé de cette manière :
 
-## Structuration de l'application 
-Analyse_Stream_ArtisteAC/
-│── app.py
-│── README.md
-│── requirements.txt
-│── data/
-│   └── artistes_afrique_centrale_spotify.csv
-
 ## demarrer l'appli avec streamlit 
 -- intaller les dependances necessaires
  pip install -r requirements.txt
@@ -53,3 +45,13 @@ Analyse_Stream_ArtisteAC/
   pandas
 -- lancer l'application 
   streamlit run app.py
+
+
+## Structuration de l'application 
+```bash
+Analyse_Stream_ArtisteAC/
+│── app.py
+│── README.md
+│── requirements.txt
+│── data/
+│   └── artistes_afrique_centrale_spotify.csv
